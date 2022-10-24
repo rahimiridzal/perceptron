@@ -1,6 +1,4 @@
 import sklearn
-from operator import imod
-from turtle import color
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
