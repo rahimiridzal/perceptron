@@ -1,4 +1,3 @@
-from unittest import result
 import sklearn
 from operator import imod
 from turtle import color
